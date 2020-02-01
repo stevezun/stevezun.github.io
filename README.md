@@ -1,9 +1,13 @@
 
 ## Introduction
 
+<<<<<<< HEAD
 Steven Zuñiga is a software developer intern at Deep Dive Coding by CNM ingenuity. A creative and persistent problem solver that wants to develop a new facet of his career in the technology industry. He intends to continue pursuing his Bachelor of Science in Computer Science and Bachelor of Arts in Linguistics at the University of New Mexico.
 
 Outside of professional life Steven enjoys pursuing his many hobbies such a yoga, going backpacking with his dogs, and practicing Brazilian Jiu Jitsu.
+=======
+<img src="/stevezun.github.io/profile.jpg" alt="Headshot">
+>>>>>>> 7ff557dd1c107547a65695c0ed42cf198b714eef
 
 
 ## Projects
