@@ -1,6 +1,6 @@
 
 ## Introduction
-![Steven Zuniga](profile.jpg)
+![Steven Zuniga](profile.jpg=300x250)
 
 
 Steven Zuñiga is a software developer intern at Deep Dive Coding by CNM ingenuity. A creative and persistent problem solver that wants to develop a new facet of his career in the technology industry. He intends to continue pursuing his Bachelor of Science in Computer Science and Bachelor of Arts in Linguistics at the University of New Mexico. 
